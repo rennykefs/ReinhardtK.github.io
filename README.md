@@ -33,7 +33,7 @@ Outcome: Optimized site selection to maximize captured demand while minimizing c
 
 
 
-** Methane Sentinel **
+** Methane Sentinel.**
 
 ![image](gettyimages-962045574-640x640.jpg)  
 
@@ -49,7 +49,7 @@ Outcome: Real-time monitoring of energy sector emissions for environmental compl
 [Repo](https://github.com/rennykefs/Methane-Sentinel)
 
 
-** Melanoma Lesion Segmentation & Algorithmic Fairness **
+**Melanoma Lesion Segmentation & Algorithmic Fairness.**
 
 ![image](fig-2-2x.jpg)
 
@@ -60,7 +60,7 @@ Developing deep learning models for skin lesion detection, specifically optimize
 
 
 
-** Energy Analytics A/B Experiment **
+**Energy Analytics A/B Experiment.**
 ![image](59-_-Enervee-Score.png)
 
 Evaluated impact of social nudges on peak electricity usage in Kenya using panel based A/B test (n=1000)
@@ -73,7 +73,7 @@ Impact: Estimated causal effects using Difference-in-Differences , resulting in 
 [Repo](https://github.com/rennykefs/Impact-of-Social-Nudges-on-Peak-Electricity-usage-in-Kenya)
 
 
-** Employee Attrition Prediction **
+**Employee Attrition Prediction.**
 
 ![image](50662High-employee-turnover.jpg)
 
@@ -87,7 +87,7 @@ Performance: Used cross-validation to achieve 92% accuracy and identified key dr
 [Repo](https://github.com/rennykefs/Larana-Company-Employee-attrition-Prediction-End-to-End-Machine-Learning-Project)
 
 
-** Petroleum Logistics Operations Anlaytics **
+**Petroleum Logistics Operations Anlaytics.**
 
 ![image](shutterstock_1754550968.jpg)
 
