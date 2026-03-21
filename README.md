@@ -49,6 +49,17 @@ Outcome: Real-time monitoring of energy sector emissions for environmental compl
 [Repo](https://github.com/rennykefs/Methane-Sentinel)
 
 
+** Melanoma Lesion Segmentation & Algorithmic Fairness **
+
+![image](fig-2-2x.jpg)
+
+Developing deep learning models for skin lesion detection, specifically optimized for dark skin tones to address biases in global healthcare datasets.
+- **Goal:** Enhancing diagnostic accuracy for the Kenyan context through research collaboration with the Kenya Cancer Institute.
+- **Tech:** PyTorch, Computer Vision (OpenCV), Deep Lab V3+
+
+
+
+
 ** Energy Analytics A/B Experiment **
 ![image](59-_-Enervee-Score.png)
 
