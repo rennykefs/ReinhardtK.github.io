@@ -29,6 +29,7 @@ Outcome: Optimized site selection to maximize captured demand while minimizing c
 [Repo](https://github.com/rennykefs/Bank-Geospatial-Network-Optimization)
 
 
+
 ** Methane Sentinel **
 
 ![image](gettyimages-962045574-640x640.jpg)  
