@@ -59,6 +59,8 @@ Evaluated impact of social nudges on peak electricity usage in Kenya using panel
 
 Impact: Estimated causal effects using Difference-in-Differences , resulting in a 5.4% reduction in peak demand and a modeled 0.325 GWh monthly reduction at national scale.
 
+[Repo](https://github.com/rennykefs/Impact-of-Social-Nudges-on-Peak-Electricity-usage-in-Kenya)
+
 
 ** Employee Attrition Prediction **
 Developed an end-to-end Data science model to predict staff turnover and support HR retention strategies
@@ -68,8 +70,28 @@ Developed an end-to-end Data science model to predict staff turnover and support
 
 Performance: Used cross-validation to achieve 92% accuracy and identified key drivers of attrition
 
+[Repo](https://github.com/rennykefs/Larana-Company-Employee-attrition-Prediction-End-to-End-Machine-Learning-Project)
+
+
 ** Petroleum Logistics Operations Anlaytics **
+
+![image](shutterstock_1754550968.jpg)
+
 Analyzed truck logistics to evaluate route efficiency and depot performance.
+
+* Data Sources: Logistics operations YoY csv file, Suboptimal routes
+* Tech: Python,Google maps API routes distances, Feature engineering, PowerBI
+
+Discovery: Identified critical inefficiencies, including a 39% reliability rate vs. the 95% benchmark and systemic bottlenecks at the Mombasa depot
+
+Solution: Built interactive Power BI dashboards report and engineered KPIs (Route Variance) to project reliability improvements.
+
+[Repo](https://github.com/rennykefs/Sinapii-Petroleum-Logistics-Optimization)
+
+
+
+
+
 
 
 
