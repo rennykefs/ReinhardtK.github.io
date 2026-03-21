@@ -15,6 +15,7 @@ With a foundation in engineering and advanced certifications from Stanford and D
 
 <!--Featured Projects-->
 **Geospatial Banking Network Optimization.**
+
 ![image]()
 Strategic site selection using the Huff Model,Geographically Weighted Regression and p-Median optimization to identify high-potential branch locations in Nairobi, Mombasa, and Kisumu.
 * Data Sources: WorldPop,Facebook Mobility,OpenstreetMap,Admin Boundaries
