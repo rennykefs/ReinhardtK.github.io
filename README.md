@@ -41,6 +41,7 @@ An automated geospatial pipeline for monitoring global methane leaks rates an cl
 Outcome: Real-time monitoring of energy sector emissions for environmental compliance.
 
 [Dashboard](https://methane-sentinel.streamlit.app)
+
 [Repo](https://github.com/rennykefs/Methane-Sentinel)
 
 
