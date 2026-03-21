@@ -31,6 +31,8 @@ Outcome: Optimized site selection to maximize captured demand while minimizing c
 
 ** Methane Sentinel **
 
+![image](1750892521121.png)
+
 
 
 
