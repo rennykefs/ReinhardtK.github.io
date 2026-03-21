@@ -31,7 +31,10 @@ Outcome: Optimized site selection to maximize captured demand while minimizing c
 
 ** Methane Sentinel **
 
-![image](1750892521121.png)
+![image](gettyimages-962045574-640x640.jpg)  ![image](gettyimages-962045574-640x640.jpg)  
+
+An automated geospatial pipeline for monitoring global methane leaks rates an climate impact using Zscore and satellite imagery
+
 
 
 
