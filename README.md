@@ -14,6 +14,8 @@ With a foundation in engineering and advanced certifications from Stanford and D
 
 
 <!--Featured Projects-->
+## Project Portfolio
+
 **Geospatial Banking Network Optimization.**
 
 ![image](1750892521121.png)
