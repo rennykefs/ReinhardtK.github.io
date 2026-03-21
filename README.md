@@ -103,8 +103,13 @@ Solution: Built interactive Power BI dashboards report and engineered KPIs (Rout
 [Repo](https://github.com/rennykefs/Sinapii-Petroleum-Logistics-Optimization)
 
 
+---
+## Contact
 
-
+- **Email:** [kefsreino@gmail.com](mailto:kefsreino@gmail.com)
+- **LinkedIn:** [linkedin.com/in/reinhardt-kiage](https://www.linkedin.com/in/reinhardt-kiage)
+- **Location:** Nairobi, Kenya 🇰🇪
+- **Phone:** [+254 707 804 311](tel:+254707804311)
 
 
 
