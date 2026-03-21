@@ -6,7 +6,24 @@ With a foundation in engineering and advanced certifications from Stanford and D
 
 <!--Mention top/relevant skills here and core and soft skills-->
 ## CORE SKILLS
--> Programming: Python (Pandas, NumPy, Scikit-Learn), SQL (MySQL, PostGIS)
+* Programming: Python , SQL
+* Machine Learning
+* MLOPs & Depolyment
+* Data Engineering
+* Data visualization
+
+
+<!--Featured Projects-->
+**Geospatial Banking Network Optimization.**
+![image]()
+Strategic site selection using the Huff Model,Geographically Weighted Regression and p-Median optimization to identify high-potential branch locations in Nairobi, Mombasa, and Kisumu.
+* Data Sources: WorldPop,Facebook Mobility,OpenstreetMap,Admin Boundaries
+* Database: PostgreSQL, PostGIS
+* Tech: Python, Folium, Streamlit
+  
+Outcome: Optimized site selection to maximize captured demand while minimizing cannibalization risk.
+
+
 
 
 
