@@ -31,9 +31,19 @@ Outcome: Optimized site selection to maximize captured demand while minimizing c
 
 ** Methane Sentinel **
 
-![image](gettyimages-962045574-640x640.jpg)  ![image](gettyimages-962045574-640x640.jpg)  
+![image](gettyimages-962045574-640x640.jpg)  
 
-An automated geospatial pipeline for monitoring global methane leaks rates an climate impact using Zscore and satellite imagery
+An automated geospatial pipeline for monitoring global methane leaks rates an climate impact using Zscore anomaly detection and satellite imagery on selected oil and gas production basins.
+* Data Sources: Sentinel-SP satellite(TROPOMI),OGIM infrastructure Data
+* Database: Supabase
+* Tech: Python, Folium, Streamlit,Github-actions,Google earth engine API, Geospatial Attribution, PDF report Generator
+
+Outcome: Real-time monitoring of energy sector emissions for environmental compliance.
+
+[Dashboard](https://methane-sentinel.streamlit.app)
+[Repo](https://github.com/rennykefs/Methane-Sentinel)
+
+
 
 
 
