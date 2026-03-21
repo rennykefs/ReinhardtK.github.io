@@ -26,8 +26,11 @@ Strategic site selection using the Huff Model,Geographically Weighted Regression
 Outcome: Optimized site selection to maximize captured demand while minimizing cannibalization risk.
 
 [Dashboard](https://bank-geospatial-network-optimization-zvh4tsayvgyn4rghtgy4bb.streamlit.app)
-
 [Repo](https://github.com/rennykefs/Bank-Geospatial-Network-Optimization)
+
+
+** Methane Sentinel **
+
 
 
 
