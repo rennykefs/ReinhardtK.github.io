@@ -63,6 +63,9 @@ Impact: Estimated causal effects using Difference-in-Differences , resulting in 
 
 
 ** Employee Attrition Prediction **
+
+![image](50662High-employee-turnover.jpg)
+
 Developed an end-to-end Data science model to predict staff turnover and support HR retention strategies
 
 * Data Sources: Hr-Employee Attrition file (Kaggle)
