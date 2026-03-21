@@ -49,6 +49,32 @@ Outcome: Real-time monitoring of energy sector emissions for environmental compl
 [Repo](https://github.com/rennykefs/Methane-Sentinel)
 
 
+** Energy Analytics A/B Experiment **
+![image](59-_-Enervee-Score.png)
+
+Evaluated impact of social nudges on peak electricity usage in Kenya using panel based A/B test (n=1000)
+
+* Data Sources: Synthetic generated energy data.csv
+* Tech: Python, A/B testing, EDA, Difference-in-Difference analysis
+
+Impact: Estimated causal effects using Difference-in-Differences , resulting in a 5.4% reduction in peak demand and a modeled 0.325 GWh monthly reduction at national scale.
+
+
+** Employee Attrition Prediction **
+Developed an end-to-end Data science model to predict staff turnover and support HR retention strategies
+
+* Data Sources: Hr-Employee Attrition file (Kaggle)
+* Tech: Python, Advanced EDA, Feature Engineering, Optimized XGBoost, SVM
+
+Performance: Used cross-validation to achieve 92% accuracy and identified key drivers of attrition
+
+** Petroleum Logistics Operations Anlaytics **
+Analyzed truck logistics to evaluate route efficiency and depot performance.
+
+
+
+
+
 
 
 
