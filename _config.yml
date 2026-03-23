@@ -1,3 +1,6 @@
 title: Reinhardt Kiage
 logo: WhatsApp Image 2023-04-26 at 16.52.58 (2).jpeg
 theme: jekyll-theme-minimal
+
+show_downloads: false
+google_analytics:
