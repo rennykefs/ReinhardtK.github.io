@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Hides the "View on GitHub" buttons
+.downloads {
+  display: none !important;
+}
+
+// Hides the "This project is maintained by..." text
+.owner {
+  display: none !important;
+}
